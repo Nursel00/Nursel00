@@ -1,6 +1,6 @@
 # 💫 About Me:
-👋 Hi i am Nursel Corak<br>
-🔭 I’m currently working on learning JavaScript and React<br>👯 I’m looking to collaborate on open-source front-end projects.<br>🤝 I’m looking for help with JavaScript and React best pratices<br>🌱 I’m currently learning JavaScript, React and web development.<br>💬 How can you reach me nhazar2147@gmail.com
+👋 Hi i am Nursel Corak,<br>
+🔭 I’m currently working on learning JavaScript and React.<br>👯 I’m looking to collaborate on open-source front-end projects.<br>🤝 I’m looking for help with JavaScript and React best pratices.<br>🌱 I’m currently learning JavaScript, React and web development.<br>💬 How can you reach me nhazar2147@gmail.com
 
 
 # 💻 Tech Stack:
